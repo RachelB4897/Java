@@ -10,7 +10,7 @@ import javafx.scene.layout.HBox;
 import javafx.stage.Stage;
 
 /**
-Rachel Bridson - CIT2551
+Rachel 
  */
 public class HW3_RB extends Application {
     
