@@ -1,15 +1,4 @@
-/* 1. Includes a looping process that will ask the user for an Item ID, 
-Item Description, and Quantity on Hand.
-2. If the Quantity on Hand is less than 20, display a message to the 
-user that the Item needs to be re-ordered.
-3. Keep track of the total number of items entered and the number of 
-items that need to be re-ordered.
-4. When the user ends the entry process, display the calculated 
-totals before ending the application.
-*/
 
-// Rachel Bridson - CIT2551
-// HW2
 import java.util.Scanner;
 
 public class ReOrderForm {
