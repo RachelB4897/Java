@@ -1,10 +1,3 @@
-/*1. Include a loop that continues to prompt the user to enter a student's name
-and letter grade until the user doesn't have any more grades to enter.
-2. Inside of the loop, keep track of the number of grades entered by the user.
-3. Before the program ends, displays the total number of grades 
-entered during the session.*/
-// Rachel Bridson - CIT2251
-// HW1
 
 import java.util.Scanner;
 
